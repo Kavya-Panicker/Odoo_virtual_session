@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌟 Skill Swap Platform
 
 ### 📝 Problem Statement 1 – Odoo Virtual Session
@@ -122,3 +123,6 @@ For any clarifications, reach out to **Team Leader: Kavya Sunil Paniker**.
 
 > ✨ *“Empowering learning through mutual skill exchange.”* ✨
 
+=======
+# Odoo_virtual_session
+>>>>>>
